@@ -1,3 +1,4 @@
+# This is a very good project and he has done alot of hard work and this is a calculator which is made by using a programming language called python
 from tkinter import *
 def click(event):
     global scvalue
